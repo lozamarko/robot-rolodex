@@ -1,0 +1,14 @@
+.search-wrapper {
+    text-align: center;
+}
+
+.search {
+    -webkit-appearance: none;
+    border: 1px solid #cccc;
+    outline: none;
+    padding: 10px;
+    width: 200px;
+    line-height: 30px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+  }
